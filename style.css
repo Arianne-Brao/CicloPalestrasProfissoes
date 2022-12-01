@@ -17,5 +17,3 @@ i {color: blue; font-size: 18px;}
 #fotoprimeiro {width: 30%; height: 30%; display: inline-block; vertical-align: top; margin-left: 200px;}
 #lista02 {display: inline-block; }
 #lista01 {display:inline-block; text-align: center;}
-.profissoes {list-style: none;}
-.profissoes__imagem:hover{ transform: scale(0.8);opacity: 100%;}
